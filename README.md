@@ -1,0 +1,2 @@
+# RLE-Algorithm-based-Data-Compression-Engine
+This project aims to the successful implementation of Run Length Encoding (RLE) data compression software. It is designed as a library software in order to be able to incorporate RLE based data compression facility into external software projects. His project will provide simple and easy API for the programmers. Code will be written accounting performance issues which will lead to maximum performance  
